@@ -1,0 +1,10 @@
+
+File sent is failed!
+Log Entry: 11:09:32 AM, Tuesday, February 4, 2020
+Exception of type 'System.Exception' was thrown.
+-------------------------------------------------
+
+File sent is failed!
+Log Entry: 11:09:48 AM, Tuesday, February 4, 2020
+Exception of type 'System.Exception' was thrown.
+-------------------------------------------------
